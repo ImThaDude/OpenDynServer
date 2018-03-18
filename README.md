@@ -51,3 +51,5 @@ Ex. Server can be created and handled through a nodejs while clients can use uni
 Each plugin can use the same main channel or create their own. Without the need of leaving the application. Each can also be handled individually standarizing and unyfying. The plugins can be applications that get from this api framework and receive and send messages. It will have a more plug and play type of feel. Maybe whole OSs can be created with this format.
 
 This can be self contained within the structure for security and stuff. Likewise, the hierarchy has to be like that and cannot be changed.
+
+Send whole structures and code and everthing within a framework. Done programically on launch.
